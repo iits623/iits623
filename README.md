@@ -19,20 +19,20 @@ console.log(aboutMe);
 
 ---
 <h4>GitHub Stats:</h4>
- <a href="https://github.com/setayeshkarampoor623">
-  <img src="https://github-readme-stats.vercel.app/api?username=setayeshkarampoor623&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=setayeshkarampoor623" />
+ <a href="https://github.com/iits623">
+  <img src="https://github-readme-stats.vercel.app/api?username=iits623&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iits623" />
 </a>
 
 ---
 <h4>Connct Me:</h4>
-    <a href="https://t.me/iits68/">
+    <a href="https://t.me/iits623/">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-      <a href="https://github.com/setayeshkarampoor623">
+      <a href="https://github.com/iits623">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-<a href="https://instagram.com/iits68/">
+<a href="https://instagram.com/iits623/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
