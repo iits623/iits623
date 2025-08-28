@@ -5,7 +5,7 @@ const aboutMe = {
   family: "Karampoor",
   city: "Kerman",
   title: "Junior FrontEnd",
-  status: "Learning JavaScript"
+  status: "Learning React"
 };
 
 console.log(aboutMe);
