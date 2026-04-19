@@ -7,7 +7,7 @@
 ![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg)
 ![Figma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
 ![Bootstrap](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg)
-![JavaScript](دhttps://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
 ![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
 ![NPM](https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg)
 ![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg)
