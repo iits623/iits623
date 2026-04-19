@@ -3,13 +3,18 @@
 <h3>Skills :</h3>
 
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23171717.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
+![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg)
+![Figma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
+![Bootstrap](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg)
+![JavaScript](دhttps://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
+![NPM](https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg)
+![React](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg)
+![Tailwind](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg)
+![Postman](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
+![GitHub](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
+
 
 ---
 <h4>GitHub Stats:</h4>
