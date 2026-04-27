@@ -26,21 +26,20 @@
 ---
 <h4>Connct Me:</h4>
     <a href="https://t.me/iits623/">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" />
-  </a>
-      <a href="https://github.com/iits623">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" />
-  </a>
-<a href="https://instagram.com/iits623/">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg" />
-  </a>
-  </a>
-<a href="https://x.com/iits623">
-    <img src="	https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" />
-  </a>
-<a href="mailto:setayeshkarampoor623@gmail.com">
-    <img src="	https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg" />
-  </a>
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" />
+    </a>
+    <a href="https://github.com/iits623">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" />
+    </a>
+    <a href="https://instagram.com/iits623/">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg" />
+    </a>
+   <a href="https://x.com/iits623">
+     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" />
+   </a>
+   <a href="mailto:setayeshkarampoor623@gmail.com">
+     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg" />
+   </a>
 
 
 
