@@ -26,13 +26,20 @@
 ---
 <h4>Connct Me:</h4>
     <a href="https://t.me/iits623/">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" />
   </a>
       <a href="https://github.com/iits623">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" />
   </a>
 <a href="https://instagram.com/iits623/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg" />
+  </a>
+  </a>
+<a href="https://x.com/iits623">
+    <img src="	https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" />
+  </a>
+<a href="mailto:setayeshkarampoor623@gmail.com">
+    <img src="	https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg" />
   </a>
 
 
